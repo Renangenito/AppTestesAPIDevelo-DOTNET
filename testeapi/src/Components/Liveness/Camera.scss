@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px) {
+    .button{
+        font-size: 10px;
+    }
+  }
+
+@media only screen and (max-width: 800px) {
+    .info{
+        width: 100px;
+    }
+}
+.center{
+    margin: auto;
+    width: 40vw;
+    border: 3px solid #0b123b;
+    border-radius: 10px;
+    padding: 10px;
+}
+.info{
+    margin: auto;
+    width: 400px;
+    border: 3px solid #0b123b;
+    border-radius: 10px;
+    padding: 10px;
+    p{
+        margin-left: 15px;
+    }
+}
+.button{
+    font-size: 15px;
+    width: 150px;
+    margin: auto;
+}
+#selfie{
+    border-radius: 10px;
+    width: 92%;
+}
+
+#lblFile{
+    color: white;
+    height: 45px;
+    width: 160px;
+    background-color: #060b26;
+    border-radius: 8px;
+    margin: auto;
+
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#lblFile:hover{
+    cursor: pointer;
+    background-color: #0b123b;
+}
+
+#icon{
+    font-size: 20px;
+}

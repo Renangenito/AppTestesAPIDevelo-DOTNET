@@ -1,0 +1,36 @@
+.login{
+    background-color: #16172F !important;
+}
+
+label{
+    color: #060b26;
+}
+
+button{
+    font-size: large;
+    font-weight: bolder;
+    width: 150px;
+}
+
+.credApi{
+    padding: 3%;
+
+    
+    border-radius: 3%;
+    border-style: ridge;
+    border-color: rgb(143, 238, 238);
+    h4{
+        color: #060b26;
+        margin-bottom: -10px;
+        width: 140px;
+        padding-left: 7px;
+        background-color: white;
+        text-align: center;
+        font-size: 15px;
+        display: flex;
+        position: relative;
+        top: -23px;
+        left: 100px;
+    }
+}
+
